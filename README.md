@@ -1,3 +1,3 @@
-# egyedi_nezet
+# Órai Navigáció gyakorlása kész
 
-A new Flutter project.
+![](https://raw.githubusercontent.com/vellt/navigacio_orai_munka_kesz/2023/review.png)
